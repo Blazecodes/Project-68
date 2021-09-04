@@ -1,0 +1,14 @@
+#clickbait {
+    text-align: center;
+    padding-right: 100px;
+    padding-left: 50px;
+    background-color: black;
+}
+#map {
+    margin-top: 50px;
+    margin-left: 250px;
+}
+.line {
+    width: 20px;
+    background-color:black;
+}
